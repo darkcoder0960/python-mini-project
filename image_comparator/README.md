@@ -5,7 +5,7 @@ This is a tool for coparing two Images and getting their difference image as out
 1.0.0
 
 # Motivation and Description
-We.Contribute -> You.Levegage ; You.Contribute -> We.Leverage ; All -> Grow
+We.Contribute -> You.Leverage ; You.Contribute -> We.Leverage ; All -> Grow
 
 # Languages and Libraries used
 Python and cv2<br>
